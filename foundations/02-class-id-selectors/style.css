@@ -1,0 +1,16 @@
+p.oddly{
+  background-color: #f5a4d6;
+  font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+p.cool{
+  font-size:24px;
+}
+div#oneID{
+  font-size:36px;
+  color:#00009d;
+}
+div#anotherID{
+  background-color: #00ff22;
+  font-size:24px;
+  font-weight: bold;
+}
